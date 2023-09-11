@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is a list of all of my Pull Requests (i.e. code contributions) on GitHub.com.\
-It only exists to keep the repository list clean in the [main account](github.com/novusnota).
+It only exists to keep the repository list clean in the [main account](https://github.com/novusnota).
 
 <!--
 **Here are some ideas to get you started:**
